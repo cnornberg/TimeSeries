@@ -1,2 +1,2 @@
 # TimeSeries
-Time Series Analisys
+Time Series Analysis
